@@ -7,7 +7,7 @@ Welcome to the GitHub repository for the "Hostel Management System" developed as
 ## Tech Stack:
 
 ### Frontend:
-HTML, CSS, Bootstrap, JavaScript
+HTML, CSS, JavaScript
 
 ### Backend: 
 PHP
