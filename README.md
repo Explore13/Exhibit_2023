@@ -22,7 +22,7 @@ MySQL
 Register and login functionality for both students and administrators.
 ### Hostel Information:
 View detailed information about available hostels.
-###Booking System:
+### Booking System:
 
 Users can book their hostel rooms through the web interface.
 ### Food Section:
@@ -38,6 +38,8 @@ Search for students, view student details, approve leave requests, and resolve c
 
 Provide valuable feedback through the footer section, helping us improve the system based on user suggestions.
 
+## About Me : 
+#### Click Here : https://linktr.ee/suryaghosh_13
 - This repository contains the complete source code and documentation for our Hostel Management System. Feel free to explore, fork, and contribute to our project. Your contributions are highly appreciated and will play a vital role in enhancing the system's functionality and user experience.
 
 - Thank you for your interest in our project, and we hope our Hostel Management System proves to be a valuable resource for colleges and universities looking to streamline their hostel operations. If you have any questions or feedback, please don't hesitate to reach out.
